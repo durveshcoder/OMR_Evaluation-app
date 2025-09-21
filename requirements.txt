@@ -1,0 +1,20 @@
+# Enhanced Precise OMR Evaluation System Requirements
+# Core Dependencies
+streamlit>=1.28.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+pillow>=10.0.0
+
+# Image Processing Enhancements
+scikit-image>=0.21.0
+matplotlib>=3.7.0
+
+# Optional Performance Enhancements
+opencv-contrib-python>=4.8.0  # Additional CV algorithms
+scipy>=1.11.0                  # Scientific computing
+imutils>=0.5.4                 # Image processing utilities
+
+# Development and Debugging
+streamlit-option-menu>=0.3.6   # Enhanced UI components
+plotly>=5.15.0                 # Interactive visualizations
